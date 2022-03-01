@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the late expedition into Kent by the appointment of both Houses of Parliament. As it was expressed in a letter from a man of good credit, who was in the action, dated from Dover the 29. of August, 1642. Wherein my Lord Roper, and Sir Peter Ricault, were taken into custody and confined unto Upner Castle, and likewise how we tooke His Majesties great ship called the Soveraigne of the Seas, and furnisht her with a sufficient guard. As also newes from Cambridge, and the bringing in of Dr. Wren bishop of Ely, with good store of treasure, in the Tower of London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97120</idno>
+            <idno type="STC">Wing W73</idno>
+            <idno type="STC">Thomason E115_10</idno>
+            <idno type="STC">ESTC R2232</idno>
+            <idno type="EEBO-CITATION">99871705</idno>
+            <idno type="PROQUEST">99871705</idno>
+            <idno type="VID">156016</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97120)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156016)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E115[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the late expedition into Kent by the appointment of both Houses of Parliament. As it was expressed in a letter from a man of good credit, who was in the action, dated from Dover the 29. of August, 1642. Wherein my Lord Roper, and Sir Peter Ricault, were taken into custody and confined unto Upner Castle, and likewise how we tooke His Majesties great ship called the Soveraigne of the Seas, and furnisht her with a sufficient guard. As also newes from Cambridge, and the bringing in of Dr. Wren bishop of Ely, with good store of treasure, in the Tower of London.</title>
+                  <author>J. W.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>September, 2. Printed by T. Favvcet,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Good newes from Kent" signed J.W.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Roper, --  Lord.</term>
+               <term>Ricault, Peter, --  Sir.</term>
+               <term>Wren, Matthew, 1585-1667.</term>
+               <term>Kent (England) --  History, Military --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156016:1" rendition="simple:additions"/>
+            <p>A TRUE RELATION of the late Expedition into KENT By the
+appointment of both Houſes of PARLIAMENT. As it was expreſſed in a Letter
+from a man of good credit, who was in the Action, Dated from <hi>Dover</hi> the
+29. of <hi>Auguſt,</hi> 1642. WHEREIN My Lord ROPER, and Sir PETER RICAVLT,
+were taken into cuſtody and Confined unto <hi>
+                  <g ref="char:V">Ʋ</g>pnar</hi> Caſtle, and
+likewiſe how we tooke His Majeſties great Ship called the <hi>Sove<g ref="char:EOLhyphen"/>raigne
+of the Seas,</hi> and furniſht her with a ſufficient guard. As alſo Newes
+from <hi>Cambridge,</hi> and the bringing in of Dr. WREN Biſhop of
+<hi>Ely,</hi> with good ſtore of treaſure, to the <hi>Tower</hi> of
+<hi>London.</hi>
+            </p>
+            <p>
+               <hi>September,</hi> 2. Printed by T. FAVVCET. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156016:2"/>
+            <pb n="1" facs="tcp:156016:2"/>
+            <head>Good Newes from <hi>KENT.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">M</seg>Y love to you remembred, and your ſonne his duty, be<g ref="char:EOLhyphen"/>ing both
+of us in good health praiſe be given to God.</p>
+            <p>When we went from <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> the firſt place we ſtaid
+at was <hi>Dert<g ref="char:EOLhyphen"/>ford</hi> in <hi>Kent,</hi> where wee quartered our ſelves
+for a night. The next day we came to <hi>Cobham-Hall,</hi> an Houſe belonging
+to the Duke of <hi>Lenox,</hi> from whence wee tooke three Barbary Horſes,
+valued at 200. pound a piece, and five loads of Ammunition. The next day we
+went to <pb n="2" facs="tcp:156016:3"/>
+               <hi>Rochester,</hi> where wee had very good
+re<g ref="char:EOLhyphen"/>ſpect from all, and made our abode there two dayes: Our next remove was
+towards <hi>Maidſtone,</hi> where by the way at <hi>Ailsford</hi> two miles
+ſhort of that Towne, we found the Houſe of Sir <hi>Peter Ricault,</hi> who
+alſo hath a faire Houſe in <hi>London</hi> neere to the Stocks, he dwelleth
+in <hi>Ailſ<g ref="char:EOLhyphen"/>ford</hi> next doore to Sir <hi>William Cooper;</hi> from him
+they tooke certaine Plate and ſome Money, and committed his perſon to
+<hi>Upnar-Caſtle</hi> over-againſt <hi>Chatham,</hi> which Caſtle we
+took, and all the Ord<g ref="char:EOLhyphen"/>nance, and put in a Garriſon of Souldi<g ref="char:EOLhyphen"/>ers, who keep
+and hold it for the King and Parliament. At <hi>Rocheſter</hi> wee light upon
+the Lord <hi>Roper,</hi> and ſent him to <hi>Upnar-Caſtle</hi> likewiſe
+to beare Sir <hi>Peter Ricault</hi> company. After this we came to Sir
+<hi>William Butlers</hi> houſe not farre from <hi>Maidſtone,</hi> where wee
+found good ſtore of Plate, Money, and Povvder, all vvhich vve took
+poſſeſſion of, but vvithall our <pb n="3" facs="tcp:156016:3"/>Souldiers ſtumbled
+upon ſuch plenty of Sugar and Svveat-meats, as ſerved to take avvay the
+ſtomacks of the moſt of them for that day and the next. When vvee came to
+<hi>Maidſtone,</hi> many gave us good vvords, but vvee might perceive by the
+countenances of divers of them, that vve vvere not ſo generally vvelcome as
+many expected. From thence vve advanced as farre as <hi>Canterbury,</hi> only
+by the vvay vve called in at Sir <hi>Edward Deerings,</hi> and made bold to
+plunder his houſe, albeit vve found very little, either Money or Armes. After
+vve vvere entred into <hi>Can<g ref="char:EOLhyphen"/>terbury,</hi> vve took out of the Deanes houſe
+great ſtore of Armes, about ſome three Carts lading beſide 14. Barrels of
+Gun<g ref="char:EOLhyphen"/>povvder, veſſels about the bigneſſe of a beer-barrel; divers of our
+Troop having got into the Minſter, pulled dovvne the Organs, and pulled to
+pieces the Rayle about the Communion Table, and re<g ref="char:EOLhyphen"/>moved that they called their
+high Altar into the body of the Chancell.</p>
+            <pb n="4" facs="tcp:156016:4"/>
+            <p>From thence wee removed towards <hi>Dover,</hi> where wee found
+our ſelves leaſt welcome of any place we yet came to, for ſcarce any one
+would vouchſafe us a good looke, yet wee made ſhift to poſ<g ref="char:EOLhyphen"/>ſeſſe
+our ſelves of the Caſtle for all that, and have furniſhed our ſelves
+with about ſeven thouſand pounds, all which wee have made bold with out of
+the houſes of Recuſants.</p>
+            <p>One thing I had almoſt forgotten, that at our being at
+<hi>Chatham</hi> we poſſeſſed our ſelves of the Kings great Ship,
+called the <hi>Soveraigne of ehe Seas,</hi> and have put in<g ref="char:EOLhyphen"/>to her a Guard of
+Souldiers. We ſup<g ref="char:EOLhyphen"/>poſe our next moving will be towards <hi>Rye</hi> and
+<hi>Haſtings.</hi> Having no more to write at this time, I reſt,</p>
+            <closer>
+               <signed>Yours, <hi>J. W.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <pb n="5" facs="tcp:156016:4"/>
+               <head>Thurſday the <hi>1.</hi> of September,
+  <hi>1642.</hi>
+               </head>
+               <p>THis morning earely Nevves came to <hi>London</hi> by a
+  Miniſter vvho came from <hi>Cambridge</hi> yeſterday, that by Order from
+  the Honourable Houſe of Parliament, certaine Troopes of Horſe have
+  ſurprized divers Heads of the Col<g ref="char:EOLhyphen"/>ledges, vvho vvere ſuſpected for
+  ſending Monies and Plate to the King, and im<g ref="char:EOLhyphen"/>priſoned them, and have
+  ſearcht their Colledges, and taken avvay ſuch Plate and Money as they found
+  there: And this afternoone Doctor <hi>Wren</hi> Biſhop of <hi>Ely</hi> vvas
+  brought up to <hi>London,</hi> vvith o<g ref="char:EOLhyphen"/>ther Doctors and Heads of Houſes,
+  being guarded vvith 500. Horſe, vvho vvere ſcene comming thorovv
+  <hi>Weſt-ſmithfield</hi> 
+                  <pb n="6" facs="tcp:156016:5"/>in <hi>London,</hi> vvith a Cart
+  load of Treaſure brought up to the Parliament to be diſ<g ref="char:EOLhyphen"/>poſed of by them,
+  and in the meane time the Biſhop of <hi>Ely</hi> vvas conveyed to the Tovver,
+  vvith others in his com<g ref="char:EOLhyphen"/>pany, till the Honourable Houſes of Par<g ref="char:EOLhyphen"/>liament
+  ſhall determine vvhat is further to be done.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
